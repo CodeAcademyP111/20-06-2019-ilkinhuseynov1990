@@ -1,0 +1,7 @@
+C:\Users\ilkin\Desktop\C#\reverse string\reversestring\reversestring\bin\Debug\reversestring.exe.config
+C:\Users\ilkin\Desktop\C#\reverse string\reversestring\reversestring\bin\Debug\reversestring.exe
+C:\Users\ilkin\Desktop\C#\reverse string\reversestring\reversestring\bin\Debug\reversestring.pdb
+C:\Users\ilkin\Desktop\C#\reverse string\reversestring\reversestring\obj\Debug\reversestring.csprojAssemblyReference.cache
+C:\Users\ilkin\Desktop\C#\reverse string\reversestring\reversestring\obj\Debug\reversestring.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\Desktop\C#\reverse string\reversestring\reversestring\obj\Debug\reversestring.exe
+C:\Users\ilkin\Desktop\C#\reverse string\reversestring\reversestring\obj\Debug\reversestring.pdb

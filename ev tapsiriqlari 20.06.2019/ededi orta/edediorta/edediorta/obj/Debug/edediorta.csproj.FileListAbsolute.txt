@@ -1,0 +1,7 @@
+C:\Users\ilkin\source\repos\edediorta\edediorta\bin\Debug\edediorta.exe.config
+C:\Users\ilkin\source\repos\edediorta\edediorta\bin\Debug\edediorta.exe
+C:\Users\ilkin\source\repos\edediorta\edediorta\bin\Debug\edediorta.pdb
+C:\Users\ilkin\source\repos\edediorta\edediorta\obj\Debug\edediorta.csprojAssemblyReference.cache
+C:\Users\ilkin\source\repos\edediorta\edediorta\obj\Debug\edediorta.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\edediorta\edediorta\obj\Debug\edediorta.exe
+C:\Users\ilkin\source\repos\edediorta\edediorta\obj\Debug\edediorta.pdb

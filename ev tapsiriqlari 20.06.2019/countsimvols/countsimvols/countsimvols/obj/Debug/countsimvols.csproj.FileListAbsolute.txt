@@ -1,0 +1,7 @@
+C:\Users\ilkin\Desktop\C#\countsimvols\countsimvols\countsimvols\bin\Debug\countsimvols.exe.config
+C:\Users\ilkin\Desktop\C#\countsimvols\countsimvols\countsimvols\bin\Debug\countsimvols.exe
+C:\Users\ilkin\Desktop\C#\countsimvols\countsimvols\countsimvols\bin\Debug\countsimvols.pdb
+C:\Users\ilkin\Desktop\C#\countsimvols\countsimvols\countsimvols\obj\Debug\countsimvols.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\Desktop\C#\countsimvols\countsimvols\countsimvols\obj\Debug\countsimvols.exe
+C:\Users\ilkin\Desktop\C#\countsimvols\countsimvols\countsimvols\obj\Debug\countsimvols.pdb
+C:\Users\ilkin\Desktop\C#\countsimvols\countsimvols\countsimvols\obj\Debug\countsimvols.csprojAssemblyReference.cache

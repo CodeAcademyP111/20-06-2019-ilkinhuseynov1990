@@ -1,0 +1,7 @@
+C:\Users\ilkin\Desktop\C#\find space\findspace\findspace\bin\Debug\findspace.exe.config
+C:\Users\ilkin\Desktop\C#\find space\findspace\findspace\bin\Debug\findspace.exe
+C:\Users\ilkin\Desktop\C#\find space\findspace\findspace\bin\Debug\findspace.pdb
+C:\Users\ilkin\Desktop\C#\find space\findspace\findspace\obj\Debug\findspace.csprojAssemblyReference.cache
+C:\Users\ilkin\Desktop\C#\find space\findspace\findspace\obj\Debug\findspace.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\Desktop\C#\find space\findspace\findspace\obj\Debug\findspace.exe
+C:\Users\ilkin\Desktop\C#\find space\findspace\findspace\obj\Debug\findspace.pdb
